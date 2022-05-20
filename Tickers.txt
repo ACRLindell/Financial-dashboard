@@ -1,0 +1,336 @@
+AAK	STO:AAK
+ABB	STO:ABB
+Addtech B	STO:ADDT-B
+Ahlstrom-Munksjö	STO:AM1S
+Alfa Laval	STO:ALFA
+Arion Bank	STO:ARION-SDB
+Arjo	STO:ARJO-B
+Assa Abloy B	STO:ASSA-B
+AstraZeneca	STO:AZN
+Atlas Copco A	STO:ATCO-A
+Atlas Copco B	STO:ATCO-B
+Atrium Ljungberg B	STO:ATRLJ-B
+Attendo	STO:ATT
+Autoliv	STO:ALIV-SDB
+Avanza Bank	STO:AZA
+Axfood	STO:AXFO
+Balder B	STO:BALD-B
+Beijer Ref	STO:BEIJ-B
+Betsson B	STO:BETS-B
+BillerudKorsnäs	STO:BILL
+Boliden	STO:BOL
+Bonava B	STO:BONAV-B
+Bravida Holding	STO:BRAV
+Castellum	STO:CAST
+Dometic Group	STO:DOM
+Electrolux B	STO:ELUX-B
+Elekta B	STO:EKTA-B
+Epiroc B	STO:EPI-B
+Ericsson B	STO:ERIC-B
+Essity B	STO:ESSITY-B
+Evolution Gaming Group	STO:EVO
+Fabege	STO:FABG
+Fenix Outdoor International	STO:FOI-B
+Getinge B	STO:GETI-B
+H&M B	STO:HM-B
+Handelsbanken A	STO:SHB-A
+Hemfosa Fastigheter	STO:HEMF
+Hemfosa Fastigheter Pref	STO:HEMF-PREF
+Hexagon B	STO:HEXA-B
+Hexpol B	STO:HPOL-B
+Holmen B	STO:HOLM-B
+Hufvudstaden A	STO:HUFV-A
+Husqvarna B	STO:HUSQ-B
+ICA Gruppen	STO:ICA
+Industrivärden C	STO:INDU-C
+Indutrade	STO:INDT
+Intrum	STO:INTRUM
+Investor B	STO:INVE-B
+JM	STO:JM
+Kindred Group	STO:KIND-SDB
+Kinnevik B	STO:KINV-B
+Klövern B	STO:KLOV-B
+Klövern Pref	STO:KLOV-PREF
+Kungsleden	STO:KLED
+Latour B	STO:LATO-B
+Lifco B	STO:LIFCO-B
+Loomis B	STO:LOOM-B
+Lundberg B	STO:LUND-B
+Lundin Mining Corporation	STO:LUMI
+Lundin Petroleum	STO:LUPE
+MTG B	STO:MTG-B
+Munters Group	STO:MTRS
+NCC B	STO:NCC-B
+NENT Group B	STO:NENT-B
+NetEnt B	STO:NET-B
+Nibe Industrier B	STO:NIBE-B
+Nobia	STO:NOBI
+Nolato B	STO:NOLA-B
+Nordea Bank	STO:NDA-SE
+Nyfosa AB	STO:NYF
+Pandox AB	STO:PNDX-B
+Peab B	STO:PEAB-B
+Ratos B	STO:RATO-B
+Resurs Holding AB	STO:RESURS
+SAAB B	STO:SAAB-B
+Sagax B	STO:SAGA-B
+Sagax Pref	STO:SAGA-PREF
+Sandvik	STO:SAND
+SCA B	STO:SCA-B
+SEB A	STO:SEB-A
+Securitas B	STO:SECU-B
+Skanska B	STO:SKA-B
+SKF B	STO:SKF-B
+SSAB A	STO:SSAB-A
+Stora Enso R	STO:STE-R
+Sweco B	STO:SWEC-B
+Swedbank A	STO:SWED-A
+Swedish Match	STO:SWMA
+Swedish Orphan Biovitrum	STO:SOBI
+Tele2 B	STO:TEL2-B
+Telia Company	STO:TELIA
+Thule Group	STO:THULE
+Tieto	STO:TIETOS
+TRATON SE	STO:8TRA
+Trelleborg B	STO:TREL-B
+Veoneer	STO:VNE-SDB
+Vitrolife	STO:VITR
+Volvo B	STO:VOLV-B
+Wallenstam B	STO:WALL-B
+Wihlborgs Fastigheter	STO:WIHL
+ÅF Pöyry B	STO:AF-B
+AcadeMedia	STO:ACAD
+Adapteo	STO:ADAPT
+Addlife B	STO:ALIF-B
+Addnode Group B	STO:ANOD-B
+Africa Oil Corp.	STO:AOI
+Alimak Group	STO:ALIG
+Alligator Bioscience	STO:ATORX
+Ambea	STO:AMBEA
+AQ Group	STO:AQ
+Beijer Alma B	STO:BEIA-B
+Bergman & Beving B	STO:BERG-B
+Besqab	STO:BESQ
+Better Collective	STO:BETCO
+Bilia A	STO:BILI-A
+BioArctic B	STO:BIOA-B
+BioGaia B	STO:BIOG-B
+Biotage	STO:BIOT
+Boozt	STO:BOOZT
+BTS Group B	STO:BTS-B
+Bufab	STO:BUFAB
+Bulten	STO:BULTEN
+Bure Equity	STO:BURE
+Bygghemma	STO:BHG
+Byggmax Group	STO:BMAX
+Calliditas Therapeutics	STO:CALTX
+Camurus	STO:CAMX
+Catella B	STO:CAT-B
+Catena	STO:CATE
+Catena Media	STO:CTM
+Cavotec SA	STO:CCC
+CellaVision	STO:CEVI
+Clas Ohlson B	STO:CLAS-B
+Cloetta	STO:CLA-B
+Collector	STO:COLL
+Concentric	STO:COIC
+Coor Service Management	STO:COOR
+Corem Property Group	STO:CORE-B
+Creades A	STO:CRED-A
+Diös Fastigheter	STO:DIOS
+Duni	STO:DUNI
+Dustin Group	STO:DUST
+Eastnine	STO:EAST
+Elanders B	STO:ELAN-B
+Eltel	STO:ELTEL
+Enea	STO:ENEA
+EnQuest PLC	STO:ENQ
+Fagerhult	STO:FAG
+Fast Partner	STO:FPAR
+Ferronordic	STO:FNM
+Fingerprint Cards B	STO:FING-B
+G5 Entertainment	STO:G5EN
+Gaming Innovation Group	STO:GIGSEK
+Garo	STO:GARO
+Gränges	STO:GRNG
+Gunnebo	STO:GUNN
+Haldex	STO:HLDX
+Handicare Group	STO:HANDI
+Hansa Biopharma	STO:HNSA
+Heba B	STO:HEBA-B
+Hembla B	STO:HEM-B
+Hexatronic Group	STO:HTRO
+HiQ International	STO:HIQ
+HMS Networks	STO:HMS
+Hoist Finance	STO:HOFI
+Humana	STO:HUM
+I.A.R Systems Group B	STO:IAR-B
+Immunovia	STO:IMMNOV
+Infant Bacterial Therapeutics B	STO:IBT-B
+Instalco	STO:INSTAL
+International Petroleum Corporation	STO:IPCO
+Internationella Engelska Skolan	STO:ENG
+Invisio Communications	STO:IVSO
+Inwido	STO:INWI
+ITAB Shop Concept B	STO:ITAB-B
+John Mattson	STO:JOMA
+Josemaria Resources INc.	STO:JOSE
+K2A Knaust & Andersson Fastigheter B	STO:K2A-B
+KABE Group B	STO:KABE-B
+KappAhl	STO:KAHL
+Karnov Group	STO:KAR
+Karo Pharma	STO:KARO
+Knowit	STO:KNOW
+Lagergrantz Group B	STO:LAGR-B
+LeoVegas	STO:LEO
+Lindab International	STO:LIAB
+Lucara Diamond Corp	STO:LUC
+Lundin Gold	STO:LUG
+Magnolia Bostad	STO:MAG
+Medicover B	STO:MCOV-B
+Mekonomen	STO:MEKO
+Midsona B	STO:MSON-B
+Mips	STO:MIPS
+Momentum Group B	STO:MMGR-B
+Mycronic	STO:MYCR
+Nederman Holding	STO:NMAN
+Net Insigt B	STO:NETI-B
+New Wave B	STO:NEWA-B
+Nobina	STO:NOBINA
+Nordic Waterproofing Holding	STO:NWG
+NP3 Fastigheter	STO:NP3
+Oasmia Pharmaceutical	STO:OASM
+OEM International B	STO:OEM-B
+Oncopeptides	STO:ONCO
+Opus Group	STO:OPUS
+Orexo	STO:ORX
+Oscar Properties Holding	STO:OP
+Platzer Fastigheter Holding	STO:PLAZ-B
+Proact IT Group	STO:PACT
+Probi	STO:PROB
+Q-Linea AB	STO:QLINEA
+Qliro Group	STO:QLRO
+RaySearch Laboratories B	STO:RAY-B
+Recipharm B	STO:RECI-B
+SAS	STO:SAS
+Scandi Standard	STO:SCST
+Scandic Hotels Group AB	STO:SHOT
+Sectra B	STO:SECT-B
+Semafo Inc.	STO:SMF
+Serneke Group B	STO:SRNKE-B
+Sinch	STO:SINCH
+SkiStar B	STO:SKIS-B
+Starbreeze B	STO:STAR-B
+Stendörren Fastigheter B	STO:STEF-B
+Svolder B	STO:SVOL-B
+Swedol B	STO:SWOL-B
+Systemair	STO:SYSR
+Tethys Oil	STO:TETY
+TF Bank	STO:TFBANK
+Tobii	STO:TOBII
+Traction B	STO:TRAC-B
+Troax Group	STO:TROAX
+VBG Group B	STO:VBG-B
+Vitec Software Group	STO:VIT-B
+Volati	STO:VOLO
+Vostok New Ventures	STO:VNV-SDB
+XANO Industri B	STO:XANO-B
+Xvivo Perfusion	STO:XVIVO
+Öresund	STO:ORES
+A3 Allmänna IT- och Telefonaktiebolaget	STO:ATRE
+Actic Group	STO:ATIC
+Active Biotech	STO:ACTI
+Agromoni	STO:AGRO
+Anoto Group	STO:ANOT
+Arctic Paper	STO:ARP
+Arise	STO:ARISE
+Ascelia Pharma	STO:ACE
+B3 Consulting Group	STO:B3
+Bactiguard Holding B	STO:BACTI-B
+Balco Group	STO:BALCO
+BE Group	STO:BEGR
+Beijer Electronics Group	STO:BELE
+Bergs Timber B	STO:BRG-B
+BioInvent International	STO:BINV
+Björn Borg	STO:BORG
+BONESUPPORT	STO:BONEX
+Bong	STO:BONG
+Boule Diagnostics	STO:BOUL
+Brinova Fastigheter B	STO:BRIN-B
+C-RAD B	STO:CRAD-B
+Cantargia	STO:CANTA
+Christian Berner Tech Trade B	STO:CBTT-B
+Concordia Martime B	STO:CCOR-B
+Consilium	STO:CONS-B
+CTT Systems	STO:CTT
+Dedicare B	STO:DEDI
+Doro	STO:DORO
+Duroc B	STO:DURC-B
+Edgeware	STO:EDGE
+Electra Gruppen	STO:ELEC
+Elos Medtech B	STO:ELOS-B
+Empir Group B	STO:EMPIR-B
+Endomines	STO:ENDO
+Eniro	STO:ENRO
+Eolus Vind B	STO:EOLU-B
+Episurf Medical B	STO:EPIS-B
+Etrion	STO:ETX
+eWork Group	STO:EWRK
+Feelgood Svenska	STO:FEEL
+FM Mattsson B	STO:FMM-B
+FormPipe Software	STO:FPIP
+GHP Specialty Care AB	STO:GHP
+Green Landscaping Group	STO:GREEN
+HANZA Holding	STO:HANZA
+Havsfrun Investment B	STO:HAV-B
+ICTA	STO:ICTA
+Image Systems	STO:IS
+Immunicum	STO:IMMU
+Korlinska Development B	STO:KDEV
+Lammhults Design Group B	STO:LAMM-B
+Lime Technologies	STO:LIME
+Malmbergs Elektriska B	STO:MEAB-B
+MedCap	STO:MCAP
+Medivir B	STO:MVIR-B
+Micro Systemation B	STO:MSAB-B
+Midway B	STO:MIDW-B
+Moberg Pharma	STO:MOB
+Moment Group	STO:MOMENT
+MQ Holding	STO:MQ
+multiQ International	STO:MULQ
+NAXS	STO:NAXS
+NCAB Group	STO:NCAB
+NeuroVive Pharmaceutical	STO:NVP
+NGS Group	STO:NGS
+Nilördgruppen B	STO:NIL-B
+Note	STO:NOTE
+Novotek B	STO:NTEK-B
+Odd Molly	STO:ODD
+Otrivus B	STO:ORTI-B
+Poolia B	STO:POOL-B
+Precise Biometrics	STO:PREC
+Prevas B	STO:PREV-B
+Pricer B	STO:PRIC-B
+ProfilGruppen B	STO:PROF-B
+Projektengagemang Sweden	STO:PENG-B
+Railcare Group	STO:RAIL
+Rejlers B	STO:REJL-B
+RNB Retail and Brands	STO:RNBS
+Rottneros	STO:RROS
+Saniona	STO:SANION
+Semcon	STO:SEMC
+Sensys Gatso Group	STO:SENS
+Sintercast	STO:SINT
+Softronic B	STO:SOF-B
+Sportamore	STO:SPOR
+SSM Holding	STO:SSM
+Stockwik Förvaltning	STO:STWK
+Strax	STO:STRAX
+Studsvik	STO:SVIK
+Svedbergs B	STO:SVED-B
+TradeDoubler	STO:TRAD
+Trention	STO:TRENT
+Venue Retail Group B	STO:VRG-B
+Viking Supply Ships B	STO:VSSAB-B
+Wise Group	STO:WISE
+ZetaDisplay	STO:ZETA
