@@ -1,2 +1,2 @@
 # Financial dashboard 
- Financial dashboard with swedish stocks. 
+ Financial dashboard with swedish stocks in progress. 
